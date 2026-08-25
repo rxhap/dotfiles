@@ -1,0 +1,18 @@
+[general]
+import = ["~/.config/alacritty/catppuccin-mocha.toml"]
+
+[window]
+dimensions = { columns = 120, lines = 30 }
+dynamic_padding = true
+option_as_alt = "Both"
+
+[scrolling]
+history = 100000
+
+[font]
+normal = { family = "Moralerspace Neon JPDOC", style = "Regular" }
+size = 13
+
+[mouse]
+hide_when_typing = true
+
